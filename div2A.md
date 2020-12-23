@@ -38,11 +38,11 @@
 | 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
 | 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
-| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
-| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
-| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |  |
-| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
-| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  |
+| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |d  |
+| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  d|
+| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |d  |
+| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |d  |
+| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  d|
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
