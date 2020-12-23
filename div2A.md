@@ -43,8 +43,8 @@
 | 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |d  |
 | 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |d  |
 | 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  d|
-| 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
-| 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
+| 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 | d |
+| 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 | d |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
 | 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
