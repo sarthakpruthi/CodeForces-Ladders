@@ -47,7 +47,7 @@
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 | d |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | d |
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 | d |
-| 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
+| 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 | d |
 | 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 |  |
 | 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
 | 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 |  |
