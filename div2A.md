@@ -1,43 +1,6 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 600 |  |
-| 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 600 |  |
-| 3 | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | 600 |  |
-| 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 600 |  |
-| 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 600 |  |
-| 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 700 |  |
-| 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 |  |
-| 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 |  |
-| 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 |  |
-| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
-| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
-| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
-| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
-| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
-| 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
-| 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
-| 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
-| 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 |  |
-| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |  |
-| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 |  |
-| 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
-| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
-| 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
-| 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 |  |
-| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
-| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 |  |
-| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
-| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
-| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
-| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 |  |
-| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
-| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
-| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
-| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
-| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
-| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
-| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
+
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |d  |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  d|
 | 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |d  |
@@ -57,9 +20,9 @@
 | 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 |d  |
 | 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 |d  |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | gd |
-| 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
-| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
-| 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 |  |
+| 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 | d |
+| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | d |
+| 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 |d  |
 | 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
